@@ -74,17 +74,17 @@ Configuration included:
 * Security groups simplify access management and role-based administration.
 * Group Policy enables centralized configuration and enforcement of security settings.
 ## Screenshots
-* Active Directory Users and Computers
+### Active Directory Users and Computers
 ![ADtree](images/ADtree.png)
-* Organizational Units and Users
+### Organizational Units and Users
 ![Finance Users](images/Finusers.png)
 ![HR Users](images/HRusers.png)
 ![ITusers](images/ITusers.png)
-* Security Groups
+### Security Groups
 ![Finance Security Group](images/Finance-Users.png)
 ![HR Security Group](images/HR-Users.png)
 ![IT Security Group](images/IT-Admin.png)
-* Group Policy Management
+### Group Policy Management
 ![Group Policy Management](images/GroupPolicyManagement.png)
 ![Group Policy Management Editor](images/GPO_password_policy.png)
 
